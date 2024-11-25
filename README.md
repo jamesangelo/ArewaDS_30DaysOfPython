@@ -1,9 +1,9 @@
 # ArewaDS_Assign
 This repository is for the submission of python assignment during the 30 days python excercise 
 # Module	Topics
--[x]	Introduction
--[x]	Variables, Built-in Functions
--[]	Operators
+[x]	Introduction
+[x]	Variables, Built-in Functions
+[]	Operators
 -[]	Strings
 -[]	Lists, Tuples and Sets
 -[]	Dictionaries
