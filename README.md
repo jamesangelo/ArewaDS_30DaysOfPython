@@ -1,7 +1,7 @@
-# ArewaDS_Assign
+![icon-correct](https://github.com/user-attachments/assets/9a44c83c-fb0b-4f9b-8a12-53e0607c7c14)# ArewaDS_Assign
 This repository is for the submission of python assignment during the 30 days python excercise 
 # Module	Topics
-- [x]	Introduction
+- [x]	Introduction ![Correct](![Uploading icon-correct.png…])
 - [x]	Variables, Built-in Functions
 - [ ]	Operators
 - [ ]	Strings
