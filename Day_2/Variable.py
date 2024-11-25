@@ -68,7 +68,7 @@ floor_division = num_one//num_two
 #12
 #i
 radius = 30 
-PI = 3.12
+PI = 3.14
 area_of_circle = PI * (radius ** 2)
 print(area_of_circle)
 #ii
