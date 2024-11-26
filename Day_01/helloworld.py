@@ -54,3 +54,25 @@ print(type('James'))        #Str
 print(type('Williams'))     #Str
 
 print(type('Nigeria'))      #Str
+
+"""## Question 3. Write Different Data Type Data Types"""
+
+print(247) #integer
+print(2.47) #float
+print(2 + 3j) #complex
+print('This is Python Program') #String
+print(True) #Boolean
+print([247, 2.47, 2+3j, 'This is Python program', True]) #List
+print((247, 2.47, 2+3j, 'This is Python program', True)) #tuple
+print({'abc', 247, 2.47, 'This is Python program'}) #Set
+print({'a':'abc', 'c':247, 'd':2.47, 'e':'This is Python program'}) #Dictionary
+
+"""## Question 4. Find the Euclidean Distance."""
+
+# this is using the pythagoras equation to solve the slope distance betwwen two points on a graph
+
+changeIn_x = (2,3)
+changeIn_y = (10,8)
+Euclid_distance = ((changeIn_y[1] - changeIn_y[0])**2 + (changeIn_x[1] - changeIn_x[0])**2)**0.5
+round(Euclid_distance, 2)
+print('Euclid distance : ', round(Euclid_distance, 2))
