@@ -3,7 +3,7 @@ This repository is for the submission of python assignment during the 30 days py
 # Module	Topics
 - [x]	Introduction
 - [x]	Variables, Built-in Functions
-- [ ]	Operators
+- [x]	Operators
 - [ ]	Strings
 - [ ]	Lists, Tuples and Sets
 - [ ]	Dictionaries
