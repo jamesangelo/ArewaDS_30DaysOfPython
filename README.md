@@ -7,9 +7,9 @@ This repository is for the submission of python assignment during the 30 days py
 - [X]	Strings Day_4
 - [X]	Lists  Day_5
 - [X]	Tuples
-- [ ]	Sets
-- [ ]	Dictionaries
-- [ ]	Conditionals
+- [X]	Sets
+- [X]	Dictionaries
+- [X]	Conditionals
 - [ ]	Loops
 - [ ]	Functions, List Comprehensions
 - [ ]	Higher Order Functions
